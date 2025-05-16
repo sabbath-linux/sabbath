@@ -11,6 +11,11 @@ qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
 
+xorg
+xorg-apps
+sddm
+budgie
+
 neovim
 vim
 vi
@@ -21,3 +26,6 @@ vlc
 firefox
 unzip
 7zip
+
+yay
+vesktop

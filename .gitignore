@@ -1,2 +1,6 @@
 bin
 obj
+
+*db.tar.zst
+live/pacman.conf
+**pacman.conf

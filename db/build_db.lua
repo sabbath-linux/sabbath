@@ -18,6 +18,7 @@ console = {
 	end,
 	add_repo = function(pkg)
 		os.execute("repo-add " .. out_db .. " " .. pkg .. "/*.pkg.tar.zst")
+		os.execute("cp " .. pkg .. "/*.pkg.tar.zst ./")
 	end,
 }
 
